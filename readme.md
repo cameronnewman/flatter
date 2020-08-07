@@ -14,8 +14,9 @@ Really simple library and demo app to flatten JSON into dot notation. [Forked][1
 [4]: https://godoc.org/github.com/cameronnewman/go-flatten
 [5]: https://goreportcard.com/badge/github.com/cameronnewman/go-flatten
 [6]: https://goreportcard.com/report/github.com/cameronnewman/go-flatten
-[7]: https://travis-ci.org/cameronnewman/go-flatten.svg?branch=master
-[8]: https://travis-ci.org/cameronnewman/go-flatten
+[7]: https://github.com/cameronnewman/go-flatten/workflows/Continuous%20Integration/badge.svg
+[8]: https://github.com/cameronnewman/go-flatten/actions
+
 
 ## Getting Started
 
